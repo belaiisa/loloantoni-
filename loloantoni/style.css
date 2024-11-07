@@ -1,0 +1,25 @@
+body {
+    background: pink;
+    color: white;
+    font-family: "Tinos", serif;
+}
+header {
+border-bottom: solid 2px blockquote;
+padding: 0px;
+font-size: 32px;
+color: blue;
+}
+section {
+background-color: aqua;
+padding-bottom: 80px;
+padding-top :80px;
+display: flex;
+justify-content:center; 
+}
+div { 
+margin-right: 5%;
+}
+
+ 
+
+
